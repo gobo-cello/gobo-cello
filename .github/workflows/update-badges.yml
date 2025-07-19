@@ -9,7 +9,7 @@ jobs:
   update-badges:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v3.1.0
       - name: Update badges
         uses: pemtajo/badge-readme@main
         with:
