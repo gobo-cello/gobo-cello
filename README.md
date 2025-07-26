@@ -5,18 +5,22 @@
 <!-- START_SECTION:badges -->
 <!-- END_SECTION:badges -->
 
+https://www.credly.com/users/gobo-cello
+
+https://learn.microsoft.com/users/79141583/credentials?tab=credentials-tab
+
 ### ☁️ Cloud
 
 #### AWS
 
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/12ae643c-e45b-4cee-8899-e3778e825ba8)
+- AWS Certified Cloud Practitioner (CLF-C02)
 
 #### Azure
 
-- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/79141583/B8B849CA2F4D6867?sharingId=4E256BCF63385F81)
+- Azure Fundamentals (AZ-900)
 
 ### 🔍 Analytics
 
 #### Amplitude
 
-- [Amplitude Foundations - Analytics](https://www.credly.com/badges/88c401ed-60e4-407f-b6d6-cd3656013b2b/public_url)
+- Amplitude Foundations - Analytics
