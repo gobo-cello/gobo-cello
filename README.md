@@ -24,3 +24,4 @@ https://learn.microsoft.com/users/79141583/credentials?tab=credentials-tab
 #### Amplitude
 
 - Amplitude Foundations - Analytics
+- Amplitude Foundations - Implementation
